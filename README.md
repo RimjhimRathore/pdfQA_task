@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 📄 PDF Question Answering System
 
 A lightweight and efficient Document Question Answering System that allows users to upload a PDF and ask questions based strictly on its content. The system retrieves relevant context and generates accurate answers without relying on external APIs — ensuring privacy, speed, and offline usability.
@@ -35,7 +35,7 @@ Sentence Transformers / Transformers
 FAISS / ChromaDB
 PyPDF / PDF Processing Libraries
 CTransformers / LLaMA (for local LLM, optional)
-=======
-# pdfQA_task
+
+
 A lightweight and efficient Document Question Answering system that allows users to upload a PDF and ask questions based strictly on its content. The system retrieves relevant context from the document and generates accurate answers without relying on external APIs.
->>>>>>> 48892a53e83a03b9240251eac12cebd72e23a510
+
